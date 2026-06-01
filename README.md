@@ -82,18 +82,6 @@ flatpak install --user --reinstall ./LinuxCustomResolution.flatpak
 
 ---
 
-## Desenvolvimento local
-
-```bash
-sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-4.0 gir1.2-adw-1 gettext
-python3 -m venv .venv && source .venv/bin/activate
-pip install -e .
-bash scripts/build-locale.sh
-lcr
-```
-
----
-
 ## Licença
 
 MIT — [LICENSE](LICENSE)
