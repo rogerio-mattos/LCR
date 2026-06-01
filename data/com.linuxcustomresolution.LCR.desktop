@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Linux Custom Resolution
+Comment=Resolucoes personalizadas de monitor (xrandr)
+Exec=lcr
+Icon=com.linuxcustomresolution.LCR
+Terminal=false
+Type=Application
+Categories=Settings;Utility;
+Keywords=resolution;display;monitor;xrandr;custom;

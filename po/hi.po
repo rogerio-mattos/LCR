@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: linux-custom-resolution 1.0.0\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Linux Custom Resolution"
+msgstr "Linux Custom Resolution"
+
+msgid "Refresh monitors"
+msgstr "मॉनिटर रीफ़्रेश करें"
+
+msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+
+msgid "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr is not available. Install xorg-xrandr on your system."
+
+msgid "New Resolution"
+msgstr "नया रिज़ॉल्यूशन"
+
+msgid "Monitor"
+msgstr "मॉनिटर"
+
+msgid "Width"
+msgstr "चौड़ाई"
+
+msgid "Height"
+msgstr "ऊँचाई"
+
+msgid "Refresh Rate (Hz)"
+msgstr "रीफ़्रेश दर (Hz)"
+
+msgid "Add to System"
+msgstr "सिस्टम में जोड़ें"
+
+msgid "Add and Apply"
+msgstr "जोड़ें और लागू करें"
+
+msgid "Restore default"
+msgstr "डिफ़ॉल्ट पुनर्स्थापित करें"
+
+msgid "Monitor {output} restored to default resolution."
+msgstr "मॉनिटर {output} डिफ़ॉल्ट रिज़ॉल्यूशन पर पुनर्स्थापित।"
+
+msgid "Saved Resolutions"
+msgstr "सहेजे गए रिज़ॉल्यूशन"
+
+msgid "No saved resolutions yet."
+msgstr "अभी कोई रिज़ॉल्यूशन सहेजा नहीं गया।"
+
+msgid "No connected monitor found."
+msgstr "कोई कनेक्टेड मॉनिटर नहीं मिला।"
+
+msgid "No monitor"
+msgstr "कोई मॉनिटर नहीं"
+
+msgid "Select a valid monitor."
+msgstr "एक वैध मॉनिटर चुनें।"
+
+msgid "Resolution {details} added and applied."
+msgstr "Resolution {details} added and applied."
+
+msgid "Resolution {details} added to the system."
+msgstr "Resolution {details} added to the system."
+
+msgid "Resolution {details} applied."
+msgstr "Resolution {details} applied."
+
+msgid "Resolution not found."
+msgstr "Resolution not found."
+
+msgid "Removed from profile, but xrandr failed: {error}"
+msgstr "Removed from profile, but xrandr failed: {error}"
+
+msgid "Removed {details}."
+msgstr "Removed {details}."
+
+msgid "Applied on startup"
+msgstr "स्टार्टअप पर लागू"
+
+msgid "Manual use"
+msgstr "मैन्युअल उपयोग"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "System Default"
+msgstr "सिस्टम डिफ़ॉल्ट"
+
+msgid "English"
+msgstr "अंग्रेज़ी"
+
+msgid "Portuguese (Brazil)"
+msgstr "पुर्तगाली (ब्राज़ील)"
+
+msgid "Spanish"
+msgstr "स्पेनिश"
+
+msgid "Russian"
+msgstr "रूसी"
+
+msgid "Chinese (Simplified)"
+msgstr "चीनी (सरलीकृत)"
+
+msgid "Chinese (Traditional)"
+msgstr "चीनी (पारंपरिक)"
+
+msgid "French"
+msgstr "फ़्रेंच"
+
+msgid "German"
+msgstr "जर्मन"
+
+msgid "Japanese"
+msgstr "जापानी"
+
+msgid "Arabic"
+msgstr "अरबी"
+
+msgid "Hindi"
+msgstr "हिन्दी"
+
+msgid "Italian"
+msgstr "इतालवी"
+
+msgid "Korean"
+msgstr "कोरियाई"
+
+msgid "Edit resolution"
+msgstr "रिज़ॉल्यूशन संपादित करें"
+
+msgid "Apply this resolution now"
+msgstr "यह रिज़ॉल्यूशन अभी लागू करें"
+
+msgid "Remove saved resolution"
+msgstr "सहेजा रिज़ॉल्यूशन हटाएँ"
+
+msgid "Remove saved resolution?"
+msgstr "सहेजा रिज़ॉल्यूशन हटाएँ?"
+
+msgid "Remove {details} from your saved resolutions?"
+msgstr "सहेजे रिज़ॉल्यूशन से {details} हटाएँ?"
+
+msgid "Remove"
+msgstr "हटाएँ"
+
+msgid "On startup"
+msgstr "स्टार्टअप पर"
+
+msgid "Edit Resolution"
+msgstr "रिज़ॉल्यूशन संपादित करें"
+
+msgid "Apply when the computer starts"
+msgstr "कंप्यूटर शुरू होने पर लागू करें"
+
+msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+
+msgid "Save Changes"
+msgstr "परिवर्तन सहेजें"
+
+msgid "Save and Apply"
+msgstr "सहेजें और लागू करें"
+
+msgid "Cancel"
+msgstr "रद्द करें"
+
+msgid "Failed to update resolution: {error}"
+msgstr "Failed to update resolution: {error}"
+
+msgid "Resolution {details} updated and applied."
+msgstr "Resolution {details} updated and applied."
+
+msgid "Resolution {details} updated."
+msgstr "Resolution {details} updated."
+
+msgid "Resolution already saved"
+msgstr "रिज़ॉल्यूशन पहले से सहेजा है"
+
+msgid "{details} is already saved for monitor {output}."
+msgstr "{details} मॉनिटर {output} के लिए पहले से सहेजा है।"
+
+msgid "Apply saved"
+msgstr "सहेजा रिज़ॉल्यूशन लागू करें"
+
+msgid "Another saved resolution already uses these settings."
+msgstr "कोई अन्य सहेजा रिज़ॉल्यूशन पहले से ये सेटिंग्स उपयोग कर रहा है।"
+
+msgid "OK"
+msgstr "ठीक है"
+
+msgid "xrandr is not available."
+msgstr "xrandr उपलब्ध नहीं है।"
+
+msgid "Supported resolutions"
+msgstr "समर्थित रिज़ॉल्यूशन"
+
+msgid "Modes reported by xrandr for {output}. TVs and some monitors only accept these — custom modes may fail."
+msgstr "xrandr द्वारा {output} के लिए रिपोर्ट किए गए मोड। TV और कुछ मॉनिटर केवल इन्हीं को स्वीकार करते हैं — कस्टम मोड विफल हो सकते हैं।"
+
+msgid "No modes reported for this display."
+msgstr "इस डिस्प्ले के लिए कोई मोड रिपोर्ट नहीं किया गया।"
+
+msgid "{resolution} — {rates} Hz"
+msgstr "{resolution} — {rates} Hz"
+
+msgid " (active: {rate:g} Hz)"
+msgstr " (सक्रिय: {rate:g} Hz)"
+
+msgid "{rates} Hz"
+msgstr "{rates} Hz"
+
+msgid " · active: {rate:g} Hz"
+msgstr " · सक्रिय: {rate:g} Hz"
+
+msgid "Use"
+msgstr "उपयोग करें"
+
+msgid "Close"
+msgstr "बंद करें"
+
+msgid "Apply now"
+msgstr "अभी लागू करें"
+
+msgid "Fill form fields"
+msgstr "फ़ॉर्म भरें"
+
+msgid "Current"
+msgstr "वर्तमान"
+
+msgid "Tip: use ▶ to apply a mode now. Use the copy button to fill the form."
+msgstr "सुझाव: ▶ से अभी मोड लागू करें। फ़ॉर्म भरने के लिए कॉपी बटन का उपयोग करें।"
+
+msgid "({count} supported modes)"
+msgstr "({count} समर्थित मोड)"
+
+msgid "Fields filled with {details}."
+msgstr "फ़ॉर्म {details} से भरा गया।"
+
+msgid "Saved resolutions for {output}"
+msgstr "सहेजे गए रिज़ॉल्यूशन — {output}"
+
+msgid "No saved resolutions for this monitor."
+msgstr "इस मॉनिटर के लिए कोई सहेजा रिज़ॉल्यूशन नहीं।"
+
+msgid "Added and applied."
+msgstr "जोड़ा और लागू किया।"
+
+msgid "Added to the system."
+msgstr "सिस्टम में जोड़ा।"
+
+msgid "Applied."
+msgstr "लागू किया।"
+
+msgid "Updated and applied."
+msgstr "अपडेट और लागू किया।"
+
+msgid "Updated."
+msgstr "अपडेट किया।"
+
+msgid "Removed."
+msgstr "हटाया।"
+
+msgid "Fields filled."
+msgstr "फ़ॉर्म भरा।"

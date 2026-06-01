@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: linux-custom-resolution 1.0.0\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Linux Custom Resolution"
+msgstr "Linux Custom Resolution"
+
+msgid "Refresh monitors"
+msgstr "Aggiorna monitor"
+
+msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+
+msgid "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr is not available. Install xorg-xrandr on your system."
+
+msgid "New Resolution"
+msgstr "Nuova risoluzione"
+
+msgid "Monitor"
+msgstr "Monitor"
+
+msgid "Width"
+msgstr "Larghezza"
+
+msgid "Height"
+msgstr "Altezza"
+
+msgid "Refresh Rate (Hz)"
+msgstr "Frequenza (Hz)"
+
+msgid "Add to System"
+msgstr "Aggiungi al sistema"
+
+msgid "Add and Apply"
+msgstr "Aggiungi e applica"
+
+msgid "Restore default"
+msgstr "Ripristina predefinito"
+
+msgid "Monitor {output} restored to default resolution."
+msgstr "Monitor {output} ripristinato alla risoluzione predefinita."
+
+msgid "Saved Resolutions"
+msgstr "Risoluzioni salvate"
+
+msgid "No saved resolutions yet."
+msgstr "Nessuna risoluzione salvata."
+
+msgid "No connected monitor found."
+msgstr "Nessun monitor connesso trovato."
+
+msgid "No monitor"
+msgstr "Nessun monitor"
+
+msgid "Select a valid monitor."
+msgstr "Seleziona un monitor valido."
+
+msgid "Resolution {details} added and applied."
+msgstr "Resolution {details} added and applied."
+
+msgid "Resolution {details} added to the system."
+msgstr "Resolution {details} added to the system."
+
+msgid "Resolution {details} applied."
+msgstr "Resolution {details} applied."
+
+msgid "Resolution not found."
+msgstr "Resolution not found."
+
+msgid "Removed from profile, but xrandr failed: {error}"
+msgstr "Removed from profile, but xrandr failed: {error}"
+
+msgid "Removed {details}."
+msgstr "Removed {details}."
+
+msgid "Applied on startup"
+msgstr "Applicata all'avvio"
+
+msgid "Manual use"
+msgstr "Uso manuale"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "System Default"
+msgstr "Predefinito di sistema"
+
+msgid "English"
+msgstr "Inglese"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portoghese (Brasile)"
+
+msgid "Spanish"
+msgstr "Spagnolo"
+
+msgid "Russian"
+msgstr "Russo"
+
+msgid "Chinese (Simplified)"
+msgstr "Cinese (semplificato)"
+
+msgid "Chinese (Traditional)"
+msgstr "Cinese (tradizionale)"
+
+msgid "French"
+msgstr "Francese"
+
+msgid "German"
+msgstr "Tedesco"
+
+msgid "Japanese"
+msgstr "Giapponese"
+
+msgid "Arabic"
+msgstr "Arabo"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Korean"
+msgstr "Coreano"
+
+msgid "Edit resolution"
+msgstr "Modifica risoluzione"
+
+msgid "Apply this resolution now"
+msgstr "Applica questa risoluzione ora"
+
+msgid "Remove saved resolution"
+msgstr "Rimuovi risoluzione salvata"
+
+msgid "Remove saved resolution?"
+msgstr "Rimuovere la risoluzione salvata?"
+
+msgid "Remove {details} from your saved resolutions?"
+msgstr "Rimuovere {details} dalle risoluzioni salvate?"
+
+msgid "Remove"
+msgstr "Rimuovi"
+
+msgid "On startup"
+msgstr "All'avvio"
+
+msgid "Edit Resolution"
+msgstr "Modifica risoluzione"
+
+msgid "Apply when the computer starts"
+msgstr "Applica all'avvio del computer"
+
+msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+
+msgid "Save Changes"
+msgstr "Salva modifiche"
+
+msgid "Save and Apply"
+msgstr "Salva e applica"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Failed to update resolution: {error}"
+msgstr "Failed to update resolution: {error}"
+
+msgid "Resolution {details} updated and applied."
+msgstr "Resolution {details} updated and applied."
+
+msgid "Resolution {details} updated."
+msgstr "Resolution {details} updated."
+
+msgid "Resolution already saved"
+msgstr "Risoluzione già salvata"
+
+msgid "{details} is already saved for monitor {output}."
+msgstr "{details} è già salvata per il monitor {output}."
+
+msgid "Apply saved"
+msgstr "Applica risoluzione salvata"
+
+msgid "Another saved resolution already uses these settings."
+msgstr "Un'altra risoluzione salvata usa già queste impostazioni."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "xrandr is not available."
+msgstr "xrandr non è disponibile."
+
+msgid "Supported resolutions"
+msgstr "Risoluzioni supportate"
+
+msgid "Modes reported by xrandr for {output}. TVs and some monitors only accept these — custom modes may fail."
+msgstr "Modalità segnalate da xrandr per {output}. TV e alcuni monitor accettano solo queste — le modalità personalizzate possono fallire."
+
+msgid "No modes reported for this display."
+msgstr "Nessuna modalità segnalata per questo schermo."
+
+msgid "{resolution} — {rates} Hz"
+msgstr "{resolution} — {rates} Hz"
+
+msgid " (active: {rate:g} Hz)"
+msgstr " (attiva: {rate:g} Hz)"
+
+msgid "{rates} Hz"
+msgstr "{rates} Hz"
+
+msgid " · active: {rate:g} Hz"
+msgstr " · attiva: {rate:g} Hz"
+
+msgid "Use"
+msgstr "Usa"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Apply now"
+msgstr "Applica ora"
+
+msgid "Fill form fields"
+msgstr "Compila modulo"
+
+msgid "Current"
+msgstr "Attuale"
+
+msgid "Tip: use ▶ to apply a mode now. Use the copy button to fill the form."
+msgstr "Suggerimento: usa ▶ per applicare una modalità ora. Usa copia per compilare il modulo."
+
+msgid "({count} supported modes)"
+msgstr "({count} modalità supportate)"
+
+msgid "Fields filled with {details}."
+msgstr "Campi compilati con {details}."
+
+msgid "Saved resolutions for {output}"
+msgstr "Risoluzioni salvate — {output}"
+
+msgid "No saved resolutions for this monitor."
+msgstr "Nessuna risoluzione salvata per questo monitor."
+
+msgid "Added and applied."
+msgstr "Aggiunta e applicata."
+
+msgid "Added to the system."
+msgstr "Aggiunta al sistema."
+
+msgid "Applied."
+msgstr "Applicata."
+
+msgid "Updated and applied."
+msgstr "Aggiornata e applicata."
+
+msgid "Updated."
+msgstr "Aggiornata."
+
+msgid "Removed."
+msgstr "Rimossa."
+
+msgid "Fields filled."
+msgstr "Modulo compilato."

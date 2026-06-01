@@ -1,0 +1,18 @@
+[project]
+name = "linux-custom-resolution"
+version = "1.0.0"
+description = "Adicione resoluções personalizadas ao Linux de forma gráfica"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+lcr = "lcr.main:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

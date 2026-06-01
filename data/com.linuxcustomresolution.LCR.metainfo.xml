@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.linuxcustomresolution.LCR</id>
+
+  <name>Linux Custom Resolution</name>
+  <name xml:lang="pt">Linux Custom Resolution</name>
+  <name xml:lang="pt_BR">Linux Custom Resolution</name>
+
+  <summary>Custom display resolutions made easy</summary>
+  <summary xml:lang="pt">Resoluções personalizadas de forma rápida e gráfica</summary>
+  <summary xml:lang="pt_BR">Resoluções personalizadas de forma rápida e gráfica</summary>
+
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+
+  <developer id="com.linuxcustomresolution">
+    <name>Rogério Mattos</name>
+  </developer>
+
+  <description>
+    <p>
+      Linux Custom Resolution (LCR) lets you create, save, and apply custom screen
+      resolutions with a few clicks. It uses xrandr and cvt on X11 and XWayland
+      sessions.
+    </p>
+    <p xml:lang="pt">
+      Linux Custom Resolution (LCR) permite criar, salvar e aplicar resoluções de
+      tela personalizadas com poucos cliques. Utiliza xrandr e cvt em sessões X11
+      e XWayland.
+    </p>
+    <p xml:lang="pt_BR">
+      Linux Custom Resolution (LCR) permite criar, salvar e aplicar resoluções de
+      tela personalizadas com poucos cliques. Utiliza xrandr e cvt em sessões X11
+      e XWayland.
+    </p>
+
+    <p>Features:</p>
+    <p xml:lang="pt">Recursos:</p>
+    <p xml:lang="pt_BR">Recursos:</p>
+    <ul>
+      <li>Lists connected monitors and shows the active resolution</li>
+      <li xml:lang="pt">Lista monitores conectados e mostra a resolução ativa</li>
+      <li xml:lang="pt_BR">Lista monitores conectados e mostra a resolução ativa</li>
+      <li>Supported resolutions viewer for TVs and multi-monitor setups</li>
+      <li xml:lang="pt">Visualizador de resoluções suportadas para TVs e multi-monitor</li>
+      <li xml:lang="pt_BR">Visualizador de resoluções suportadas para TVs e multi-monitor</li>
+      <li>Save profiles per monitor and optionally apply on login</li>
+      <li xml:lang="pt">Salva perfis por monitor e pode aplicar ao iniciar sessão</li>
+      <li xml:lang="pt_BR">Salva perfis por monitor e pode aplicar ao iniciar sessão</li>
+      <li>12 interface languages</li>
+      <li xml:lang="pt">12 idiomas na interface</li>
+      <li xml:lang="pt_BR">12 idiomas na interface</li>
+    </ul>
+
+    <p>
+      Distributed as a Flatpak. Requires xrandr on the host system.
+    </p>
+    <p xml:lang="pt">
+      Distribuído como Flatpak. Requer xrandr instalado no sistema.
+    </p>
+    <p xml:lang="pt_BR">
+      Distribuído como Flatpak. Requer xrandr instalado no sistema.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">com.linuxcustomresolution.LCR.desktop</launchable>
+
+  <url type="homepage">https://github.com/rogerio-mattos/lcr</url>
+  <url type="vcs-browser">https://github.com/rogerio-mattos/lcr</url>
+  <url type="bugtracker">https://github.com/rogerio-mattos/lcr/issues</url>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption xml:lang="en">Main window — create and apply custom resolutions</caption>
+      <caption xml:lang="pt">Janela principal — criar e aplicar resoluções personalizadas</caption>
+      <caption xml:lang="pt_BR">Janela principal — criar e aplicar resoluções personalizadas</caption>
+      <image type="source" width="1536" height="1024">https://raw.githubusercontent.com/rogerio-mattos/lcr/main/data/screenshots/main-window.png</image>
+    </screenshot>
+    <screenshot>
+      <caption xml:lang="en">Supported resolutions reported by xrandr</caption>
+      <caption xml:lang="pt">Resoluções suportadas reportadas pelo xrandr</caption>
+      <caption xml:lang="pt_BR">Resoluções suportadas reportadas pelo xrandr</caption>
+      <image type="source" width="1536" height="1024">https://raw.githubusercontent.com/rogerio-mattos/lcr/main/data/screenshots/supported-modes.png</image>
+    </screenshot>
+  </screenshots>
+
+  <releases>
+    <release version="1.0.0" date="2026-05-30">
+      <description>
+        <p>Initial release.</p>
+        <p xml:lang="pt">Lançamento inicial.</p>
+        <p xml:lang="pt_BR">Lançamento inicial.</p>
+        <ul>
+          <li>Custom resolutions via xrandr + cvt</li>
+          <li xml:lang="pt">Resoluções personalizadas via xrandr + cvt</li>
+          <li xml:lang="pt_BR">Resoluções personalizadas via xrandr + cvt</li>
+          <li>Per-monitor saved profiles and login autostart</li>
+          <li xml:lang="pt">Perfis salvos por monitor e autostart no login</li>
+          <li xml:lang="pt_BR">Perfis salvos por monitor e autostart no login</li>
+          <li>Supported resolutions dialog for TVs and HDMI displays</li>
+          <li xml:lang="pt">Diálogo de resoluções suportadas para TVs e HDMI</li>
+          <li xml:lang="pt_BR">Diálogo de resoluções suportadas para TVs e HDMI</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+
+  <categories>
+    <category>Utility</category>
+    <category>Settings</category>
+  </categories>
+
+  <keywords>
+    <keyword>resolution</keyword>
+    <keyword>display</keyword>
+    <keyword>monitor</keyword>
+    <keyword>xrandr</keyword>
+    <keyword>custom</keyword>
+    <keyword>refresh rate</keyword>
+    <keyword>hdmi</keyword>
+    <keyword>tv</keyword>
+    <keyword translate="yes">resolução</keyword>
+    <keyword translate="yes">monitor</keyword>
+  </keywords>
+
+  <content_rating type="oars-1.1"/>
+</component>

@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: linux-custom-resolution 1.0.0\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Linux Custom Resolution"
+msgstr "Linux Custom Resolution"
+
+msgid "Refresh monitors"
+msgstr "重新整理顯示器"
+
+msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+
+msgid "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr is not available. Install xorg-xrandr on your system."
+
+msgid "New Resolution"
+msgstr "新增解析度"
+
+msgid "Monitor"
+msgstr "顯示器"
+
+msgid "Width"
+msgstr "寬度"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Refresh Rate (Hz)"
+msgstr "更新率 (Hz)"
+
+msgid "Add to System"
+msgstr "新增至系統"
+
+msgid "Add and Apply"
+msgstr "新增並套用"
+
+msgid "Restore default"
+msgstr "還原預設"
+
+msgid "Monitor {output} restored to default resolution."
+msgstr "顯示器 {output} 已還原為預設解析度。"
+
+msgid "Saved Resolutions"
+msgstr "已儲存的解析度"
+
+msgid "No saved resolutions yet."
+msgstr "尚無已儲存的解析度。"
+
+msgid "No connected monitor found."
+msgstr "找不到已連接的顯示器。"
+
+msgid "No monitor"
+msgstr "無顯示器"
+
+msgid "Select a valid monitor."
+msgstr "請選擇有效的顯示器。"
+
+msgid "Resolution {details} added and applied."
+msgstr "Resolution {details} added and applied."
+
+msgid "Resolution {details} added to the system."
+msgstr "Resolution {details} added to the system."
+
+msgid "Resolution {details} applied."
+msgstr "Resolution {details} applied."
+
+msgid "Resolution not found."
+msgstr "Resolution not found."
+
+msgid "Removed from profile, but xrandr failed: {error}"
+msgstr "Removed from profile, but xrandr failed: {error}"
+
+msgid "Removed {details}."
+msgstr "Removed {details}."
+
+msgid "Applied on startup"
+msgstr "啟動時套用"
+
+msgid "Manual use"
+msgstr "手動使用"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "System Default"
+msgstr "系統預設"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Portuguese (Brazil)"
+msgstr "葡萄牙語（巴西）"
+
+msgid "Spanish"
+msgstr "西班牙語"
+
+msgid "Russian"
+msgstr "俄語"
+
+msgid "Chinese (Simplified)"
+msgstr "中文（簡體）"
+
+msgid "Chinese (Traditional)"
+msgstr "中文（繁體）"
+
+msgid "French"
+msgstr "法語"
+
+msgid "German"
+msgstr "德語"
+
+msgid "Japanese"
+msgstr "日語"
+
+msgid "Arabic"
+msgstr "阿拉伯語"
+
+msgid "Hindi"
+msgstr "印地語"
+
+msgid "Italian"
+msgstr "義大利語"
+
+msgid "Korean"
+msgstr "韓語"
+
+msgid "Edit resolution"
+msgstr "編輯解析度"
+
+msgid "Apply this resolution now"
+msgstr "立即套用此解析度"
+
+msgid "Remove saved resolution"
+msgstr "移除已儲存的解析度"
+
+msgid "Remove saved resolution?"
+msgstr "移除已儲存的解析度？"
+
+msgid "Remove {details} from your saved resolutions?"
+msgstr "從已儲存的解析度中移除 {details}？"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "On startup"
+msgstr "啟動時"
+
+msgid "Edit Resolution"
+msgstr "編輯解析度"
+
+msgid "Apply when the computer starts"
+msgstr "電腦啟動時套用"
+
+msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+
+msgid "Save Changes"
+msgstr "儲存變更"
+
+msgid "Save and Apply"
+msgstr "儲存並套用"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Failed to update resolution: {error}"
+msgstr "Failed to update resolution: {error}"
+
+msgid "Resolution {details} updated and applied."
+msgstr "Resolution {details} updated and applied."
+
+msgid "Resolution {details} updated."
+msgstr "Resolution {details} updated."
+
+msgid "Resolution already saved"
+msgstr "解析度已儲存"
+
+msgid "{details} is already saved for monitor {output}."
+msgstr "{details} 已儲存至顯示器 {output}。"
+
+msgid "Apply saved"
+msgstr "套用已儲存的解析度"
+
+msgid "Another saved resolution already uses these settings."
+msgstr "另一個已儲存的解析度已使用這些設定。"
+
+msgid "OK"
+msgstr "確定"
+
+msgid "xrandr is not available."
+msgstr "xrandr 無法使用。"
+
+msgid "Supported resolutions"
+msgstr "支援的解析度"
+
+msgid "Modes reported by xrandr for {output}. TVs and some monitors only accept these — custom modes may fail."
+msgstr "xrandr 為 {output} 回報的模式。電視和部分螢幕僅接受這些模式 — 自訂模式可能失敗。"
+
+msgid "No modes reported for this display."
+msgstr "此螢幕未回報任何模式。"
+
+msgid "{resolution} — {rates} Hz"
+msgstr "{resolution} — {rates} Hz"
+
+msgid " (active: {rate:g} Hz)"
+msgstr "（使用中：{rate:g} Hz）"
+
+msgid "{rates} Hz"
+msgstr "{rates} Hz"
+
+msgid " · active: {rate:g} Hz"
+msgstr " · 使用中：{rate:g} Hz"
+
+msgid "Use"
+msgstr "使用"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Apply now"
+msgstr "立即套用"
+
+msgid "Fill form fields"
+msgstr "填入表單"
+
+msgid "Current"
+msgstr "目前"
+
+msgid "Tip: use ▶ to apply a mode now. Use the copy button to fill the form."
+msgstr "提示：使用 ▶ 立即套用模式。使用複製按鈕填入表單。"
+
+msgid "({count} supported modes)"
+msgstr "（{count} 個支援的模式）"
+
+msgid "Fields filled with {details}."
+msgstr "已填入 {details}。"
+
+msgid "Saved resolutions for {output}"
+msgstr "已儲存的解析度 — {output}"
+
+msgid "No saved resolutions for this monitor."
+msgstr "此螢幕沒有已儲存的解析度。"
+
+msgid "Added and applied."
+msgstr "已新增並套用。"
+
+msgid "Added to the system."
+msgstr "已新增至系統。"
+
+msgid "Applied."
+msgstr "已套用。"
+
+msgid "Updated and applied."
+msgstr "已更新並套用。"
+
+msgid "Updated."
+msgstr "已更新。"
+
+msgid "Removed."
+msgstr "已移除。"
+
+msgid "Fields filled."
+msgstr "已填入表單。"

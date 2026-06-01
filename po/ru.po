@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: linux-custom-resolution 1.0.0\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Linux Custom Resolution"
+msgstr "Linux Custom Resolution"
+
+msgid "Refresh monitors"
+msgstr "Обновить мониторы"
+
+msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+
+msgid "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr is not available. Install xorg-xrandr on your system."
+
+msgid "New Resolution"
+msgstr "Новое разрешение"
+
+msgid "Monitor"
+msgstr "Монитор"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Refresh Rate (Hz)"
+msgstr "Частота (Гц)"
+
+msgid "Add to System"
+msgstr "Добавить в систему"
+
+msgid "Add and Apply"
+msgstr "Добавить и применить"
+
+msgid "Restore default"
+msgstr "Восстановить стандарт"
+
+msgid "Monitor {output} restored to default resolution."
+msgstr "Монитор {output} восстановлен до стандартного разрешения."
+
+msgid "Saved Resolutions"
+msgstr "Сохранённые разрешения"
+
+msgid "No saved resolutions yet."
+msgstr "Нет сохранённых разрешений."
+
+msgid "No connected monitor found."
+msgstr "Подключённые мониторы не найдены."
+
+msgid "No monitor"
+msgstr "Нет монитора"
+
+msgid "Select a valid monitor."
+msgstr "Выберите действительный монитор."
+
+msgid "Resolution {details} added and applied."
+msgstr "Resolution {details} added and applied."
+
+msgid "Resolution {details} added to the system."
+msgstr "Resolution {details} added to the system."
+
+msgid "Resolution {details} applied."
+msgstr "Resolution {details} applied."
+
+msgid "Resolution not found."
+msgstr "Resolution not found."
+
+msgid "Removed from profile, but xrandr failed: {error}"
+msgstr "Removed from profile, but xrandr failed: {error}"
+
+msgid "Removed {details}."
+msgstr "Removed {details}."
+
+msgid "Applied on startup"
+msgstr "Применяется при запуске"
+
+msgid "Manual use"
+msgstr "Ручное использование"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "System Default"
+msgstr "По умолчанию в системе"
+
+msgid "English"
+msgstr "Английский"
+
+msgid "Portuguese (Brazil)"
+msgstr "Португальский (Бразилия)"
+
+msgid "Spanish"
+msgstr "Испанский"
+
+msgid "Russian"
+msgstr "Русский"
+
+msgid "Chinese (Simplified)"
+msgstr "Китайский (упрощённый)"
+
+msgid "Chinese (Traditional)"
+msgstr "Китайский (традиционный)"
+
+msgid "French"
+msgstr "Французский"
+
+msgid "German"
+msgstr "Немецкий"
+
+msgid "Japanese"
+msgstr "Японский"
+
+msgid "Arabic"
+msgstr "Арабский"
+
+msgid "Hindi"
+msgstr "Хинди"
+
+msgid "Italian"
+msgstr "Итальянский"
+
+msgid "Korean"
+msgstr "Корейский"
+
+msgid "Edit resolution"
+msgstr "Изменить разрешение"
+
+msgid "Apply this resolution now"
+msgstr "Применить это разрешение сейчас"
+
+msgid "Remove saved resolution"
+msgstr "Удалить сохранённое разрешение"
+
+msgid "Remove saved resolution?"
+msgstr "Удалить сохранённое разрешение?"
+
+msgid "Remove {details} from your saved resolutions?"
+msgstr "Удалить {details} из сохранённых разрешений?"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "On startup"
+msgstr "При запуске"
+
+msgid "Edit Resolution"
+msgstr "Изменить разрешение"
+
+msgid "Apply when the computer starts"
+msgstr "Применять при запуске компьютера"
+
+msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+msgid "Save and Apply"
+msgstr "Сохранить и применить"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Failed to update resolution: {error}"
+msgstr "Failed to update resolution: {error}"
+
+msgid "Resolution {details} updated and applied."
+msgstr "Resolution {details} updated and applied."
+
+msgid "Resolution {details} updated."
+msgstr "Resolution {details} updated."
+
+msgid "Resolution already saved"
+msgstr "Разрешение уже сохранено"
+
+msgid "{details} is already saved for monitor {output}."
+msgstr "{details} уже сохранено для монитора {output}."
+
+msgid "Apply saved"
+msgstr "Применить сохранённое"
+
+msgid "Another saved resolution already uses these settings."
+msgstr "Другая сохранённая конфигурация уже использует эти параметры."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "xrandr is not available."
+msgstr "xrandr недоступен."
+
+msgid "Supported resolutions"
+msgstr "Поддерживаемые разрешения"
+
+msgid "Modes reported by xrandr for {output}. TVs and some monitors only accept these — custom modes may fail."
+msgstr "Режимы xrandr для {output}. Телевизоры и некоторые мониторы принимают только их — пользовательские режимы могут не работать."
+
+msgid "No modes reported for this display."
+msgstr "Для этого экрана режимы не сообщены."
+
+msgid "{resolution} — {rates} Hz"
+msgstr "{resolution} — {rates} Гц"
+
+msgid " (active: {rate:g} Hz)"
+msgstr " (активно: {rate:g} Гц)"
+
+msgid "{rates} Hz"
+msgstr "{rates} Гц"
+
+msgid " · active: {rate:g} Hz"
+msgstr " · активно: {rate:g} Гц"
+
+msgid "Use"
+msgstr "Использовать"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Apply now"
+msgstr "Применить сейчас"
+
+msgid "Fill form fields"
+msgstr "Заполнить форму"
+
+msgid "Current"
+msgstr "Текущая"
+
+msgid "Tip: use ▶ to apply a mode now. Use the copy button to fill the form."
+msgstr "Подсказка: нажмите ▶, чтобы применить режим. Кнопка копирования заполнит форму."
+
+msgid "({count} supported modes)"
+msgstr "({count} поддерживаемых режимов)"
+
+msgid "Fields filled with {details}."
+msgstr "Поля заполнены: {details}."
+
+msgid "Saved resolutions for {output}"
+msgstr "Сохранённые разрешения — {output}"
+
+msgid "No saved resolutions for this monitor."
+msgstr "Нет сохранённых разрешений для этого монитора."
+
+msgid "Added and applied."
+msgstr "Добавлено и применено."
+
+msgid "Added to the system."
+msgstr "Добавлено в систему."
+
+msgid "Applied."
+msgstr "Применено."
+
+msgid "Updated and applied."
+msgstr "Обновлено и применено."
+
+msgid "Updated."
+msgstr "Обновлено."
+
+msgid "Removed."
+msgstr "Удалено."
+
+msgid "Fields filled."
+msgstr "Поля заполнены."
